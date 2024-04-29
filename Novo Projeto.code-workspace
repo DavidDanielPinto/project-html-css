@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Novo Projeto",
+			"path": "."
+		},
+		{
+			"name": "imagens",
+			"path": "../../../Downloads/Projeto D010 2/imagens"
+		},
+		{
+			"name": "fontes",
+			"path": "../../../Downloads/Projeto D010 2/fontes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Novo Projeto"
+	}
+}
